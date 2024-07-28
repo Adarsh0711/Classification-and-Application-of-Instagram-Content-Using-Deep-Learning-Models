@@ -22,8 +22,9 @@ In this project I used various CNN architectures on the “Instagram page Screen
 ### APP Demo
 https://github.com/user-attachments/assets/09c3ffed-43fd-42aa-b0cc-3a42f3e5bb8e
 
+### Contact
 
-
+If you have any questions or comments, feel free to contact me on [Email](mailto:adarshreddybandaru@gmail.com)
 
 
 
