@@ -20,6 +20,8 @@ In this project I used various CNN architectures on the “Instagram page Screen
 <img width="803" alt="Screenshot 2024-07-28 at 17 19 51" src="https://github.com/user-attachments/assets/1276f021-a7d8-4216-8210-3ca5b26afd70">
 
 ### APP Demo
+https://github.com/user-attachments/assets/09c3ffed-43fd-42aa-b0cc-3a42f3e5bb8e
+
 
 
 
